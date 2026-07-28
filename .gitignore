@@ -1,0 +1,31 @@
+## LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.bcf
+*.blg
+*.idx
+*.ilg
+*.ind
+*.ist
+*.run.xml
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.dvi
+*.ps
+
+## Output files (not in source repo)
+*.pdf
+*.epub
+*.zip
+
+## Editor temp files
+*~
+*.swp
+*.swo
+.DS_Store
